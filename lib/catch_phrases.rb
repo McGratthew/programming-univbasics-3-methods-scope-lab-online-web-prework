@@ -5,6 +5,6 @@ def mario
 end
 
 def toadstool
-  status = 'Pick a box!'
+  status = "It's Dangerous To Go Alone! Take This."
   puts status
 end
